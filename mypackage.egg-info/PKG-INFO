@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/<username>/<package-name>
+Author: Sithabiseni
+Author-email: sithabisenimtshali@gmail.com
+License: MIT
+
+#- The top n items in an array.
+This package will take an array as an input and return the top n numbers in an array in a descending order.
